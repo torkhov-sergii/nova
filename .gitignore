@@ -24,3 +24,4 @@ yarn-error.log
 /client/.nuxt/
 /client/dist/
 /composer.lock
+/public/vendor/nova/
